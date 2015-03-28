@@ -1,5 +1,4 @@
-# dokuwiki_plugin_themes
-themes Plugin for DokuWiki
+# themes Plugin for DokuWiki
 
 Customize template styles
 
